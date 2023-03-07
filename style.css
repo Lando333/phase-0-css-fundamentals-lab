@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+* {
+  text-align: center;
+  margin: auto;
+}
+nav a {
+  background-color: goldenrod;
+}
+p {
+  font-size: 14px;
+}
+#featured-property p {
+  width: 800px;
+  padding: 20px;
+}
+#details div {
+  float: left;
+  background-color: red;
+  width: 25%;
+}
